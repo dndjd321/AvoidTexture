@@ -1,2 +1,2 @@
-# AvoidTexture_C-
+# AvoidTexture_C++
 AvoidTexture game create using C++.
